@@ -18,3 +18,15 @@
 ||CronJob||
 ||FastApi||
 ||MongoDB||
+|NotificationManager|
+|Platform| NodeJS | Docker + Kubernetes|
+||CronJob||
+||Express||
+||||
+|UserJobsManager|
+|Platform| .NET | Docker + Kubernetes|
+||Asp.Net||
+||SQLServer Express||
+|Logger|
+|Platform| Python | Docker + Kubernetes|
+||Seq||
